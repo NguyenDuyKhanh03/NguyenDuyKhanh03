@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-Tôi là Duy Khanh đến từ Việt Nam. Tôi là sinh viên năm 3 tại trường đại học Công Thương, yêu thích anime và mâng,luôn học hỏi những điều mới ,sẵn sàng thảo luận và thực hiện các dự án mới(nếu có).
+Tôi là Duy Khanh đến từ Việt Nam. Tôi là sinh viên năm 3 tại trường đại học Công Thương, yêu thích anime và manga,luôn học hỏi những điều mới ,sẵn sàng thảo luận và thực hiện các dự án mới(nếu có).
 
 
 
