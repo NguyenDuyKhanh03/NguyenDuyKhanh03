@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I am Swastik Baranwal from Delhi, India who is a Noob, Open Source and V Contributor, DevOps enthusiastic, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+Tôi là Duy Khanh đến từ Việt Nam. Tôi là sinh viên năm 3 tại trường đại học Công Thương, yêu thích anime và mâng,luôn học hỏi những điều mới ,sẵn sàng thảo luận và thực hiện các dự án mới(nếu có).
 
 
 
