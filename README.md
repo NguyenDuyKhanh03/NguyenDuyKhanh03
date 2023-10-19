@@ -29,8 +29,8 @@ Tôi là Duy Khanh đến từ Việt Nam. Tôi là sinh viên năm 3 tại trư
 
 - Learning
 
-| [<img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" alt="js logo" width="24" >](https://www.programiz.com/java-programming/) | [<img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="ts logo" width="24">](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/) |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="js logo" width="35" >](https://kotlinlang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  
+|---|---|
 
 ### Tools 🛠️
 
