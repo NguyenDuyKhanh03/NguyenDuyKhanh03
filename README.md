@@ -23,7 +23,7 @@ Tôi là Duy Khanh đến từ Việt Nam. Tôi là sinh viên năm 4 tại trư
 
 - Know/Using
 
-| [<img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="js logo" width="35" >](https://kotlinlang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  
+| [<img src="https://th.bing.com/th/id/OIP.Cp4bqCbGB66H4KZQ4YRgzgHaCf?w=308&h=117&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="java logo" width="35" >]([https://kotlinlang.org/](https://docs.spring.io/spring-boot/index.html))  | [<img src="https://th.bing.com/th/id/OIP.tHYR-6oYpduV1jPgI4QPVgHaHa?w=162&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="react logo" width="24">](https://legacy.reactjs.org/)  |  
 |---|---|
 
 - Learning
